@@ -8,7 +8,7 @@
 
  
 
-## LiveLink -- [Web-design](https://crypto-landing-page-yashshamnani.netlify.app/)
+## LiveLink -- [Web-design](https://web-design-homepage-yash-shamnani.netlify.app/)
 
 
 
@@ -20,7 +20,7 @@
   - Learned to put background images 
   - Learned to design navigation bars and buttons
   - Learned a about Linear-Gradient
-  - 
+  
   
 
 
