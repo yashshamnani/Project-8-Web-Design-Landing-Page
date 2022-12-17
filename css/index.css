@@ -99,4 +99,80 @@
     width: 900px;
 
 }
+@media screen and (max-width: 1065px) {
+   body {
+       background: none;
+   }
+
+   .main-div {
+       width: 88vw;
+       margin: 20px 20px;
+   }
+
+
+   .nav {
+       margin: 10px;
+        
+   }
+
+   .nav-items {
+       display: none;
+   }
+
+   .signin-btn {
+       margin-left: 3rem;
+   }
+
+   .intro-section {
+       margin: 1rem;
+       flex-direction: column;
+       text-align: center;
+       gap: 0;
+   }
+
+   .left-section h1 {
+       margin-top: 3rem;
+   }
+
+   .left-section h4 {
+       font-size: 12px;
+       margin-bottom: 45px;
+       width: 100%;
+   }
+
+   .vector-dot {
+       position: absolute;
+       left: 20vw;
+       bottom: 6rem;
+        
+   }
+
+   .vector-img {
+       position: absolute;
+       bottom: 0rem;
+       left: 150px;
  
+   }
+
+   .imgs-div img:last-child {
+       position: absolute;
+        
+        height: 200px;
+   }
+
+}
+@media screen and (max-width: 850px){
+   .vector-dot {
+       display: none;
+       
+  }
+
+  .vector-img {
+   display: none;
+
+  }
+
+  .imgs-div img:last-child {
+   display: none;
+  }
+}
